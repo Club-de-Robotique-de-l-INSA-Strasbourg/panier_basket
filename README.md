@@ -10,4 +10,24 @@ Dans ce repo git on peut retrouver les section :
 
 - Mécanique : Des photos du montage finale et les quelques pièces imprimées en 3D
 
+### 
+
 ### Electronique
+
+Pour l'électronique on a voulu rester simple avec une arduino pour faire tourner le programme, un nema x pour le mouvement et sa carte d'alimentation une x. Enfin, une alimentation externe est obligatoire pour fournir la puissance nécessaire.
+
+
+
+
+
+### Programmation
+
+Le code est fait directement sur l'IDE d'Arduino. L'idée est que une fois activé le panie bougent tout seul aléatoirement sur son s'axe en vérifiant qu'il n'est pas au bord grâce à des boutons poussoirs.
+
+
+
+
+
+### Mécanique
+
+Pour la macanique on a là aussi voulu rester simple avec une courroie dentée sur la quelle on a accroché le panier de basket. Le tout est attaché à une table.
