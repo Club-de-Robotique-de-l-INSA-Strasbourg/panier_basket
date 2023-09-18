@@ -12,22 +12,14 @@ Dans ce repo git on peut retrouver les section :
 
 ### 
 
-### Electronique
+### Electronique (KiCAD)
 
 Pour l'électronique on a voulu rester simple avec une arduino pour faire tourner le programme, un nema x pour le mouvement et sa carte d'alimentation une x. Enfin, une alimentation externe est obligatoire pour fournir la puissance nécessaire.
 
-
-
-
-
-### Programmation
+### Programmation (Arduino)
 
 Le code est fait directement sur l'IDE d'Arduino. L'idée est que une fois activé le panie bougent tout seul aléatoirement sur son s'axe en vérifiant qu'il n'est pas au bord grâce à des boutons poussoirs.
 
-
-
-
-
-### Mécanique
+### Mécanique (FreeCAD)
 
 Pour la macanique on a là aussi voulu rester simple avec une courroie dentée sur la quelle on a accroché le panier de basket. Le tout est attaché à une table.
